@@ -29,6 +29,8 @@ my_hash_creator(:palyer, "Messi")
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
   
+  hash[key]
+  
   
   
 end
