@@ -16,6 +16,7 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
+  {:id => 21 }
   
 end
 
